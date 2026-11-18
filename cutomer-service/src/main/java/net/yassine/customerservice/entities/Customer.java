@@ -1,4 +1,4 @@
-package net.yassine.cutomerservice.entities;
+package net.yassine.customerservice.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

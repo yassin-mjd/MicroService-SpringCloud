@@ -1,9 +1,8 @@
-package net.yassine.cutomerservice.repository;
+package net.yassine.customerservice.repository;
 
-import net.yassine.cutomerservice.entities.Customer;
+import net.yassine.customerservice.entities.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
-import org.springframework.stereotype.Repository;
 
 @RepositoryRestResource
 

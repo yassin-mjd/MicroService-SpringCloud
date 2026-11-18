@@ -1,7 +1,7 @@
-package net.yassine.cutomerservice;
+package net.yassine.customerservice;
 
-import net.yassine.cutomerservice.entities.Customer;
-import net.yassine.cutomerservice.repository.CustomerRepository;
+import net.yassine.customerservice.entities.Customer;
+import net.yassine.customerservice.repository.CustomerRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

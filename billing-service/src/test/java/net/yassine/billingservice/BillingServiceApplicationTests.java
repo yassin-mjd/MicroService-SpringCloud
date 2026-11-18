@@ -1,10 +1,10 @@
-package net.yassine.cutomerservice;
+package net.yassine.billingservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CutomerServiceApplicationTests {
+class BillingServiceApplicationTests {
 
     @Test
     void contextLoads() {
