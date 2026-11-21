@@ -11,4 +11,7 @@ public class Customer {
     private String Id;
     private String name;
     private String email;
+
+    public void setId(Long id) {
+    }
 }
